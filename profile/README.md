@@ -4,7 +4,7 @@ Malloy is an experimental language for describing data relationships and transfo
 
 ## Try Malloy
 
-The easiest way to try the Malloy language is the [Malloy Fiddle](https://malloydata.github.io/malloy/fiddle/index.html?q=12+-+Line+Chart+with+two+dimension%3A+Flights+by+Month+and+Length&m=Flights&t=) site. Here you can toggle between saved queries and edit them or write your own against the provided data and models.
+### Click [here](https://github.dev/malloydata/try-malloy/blob/main/airports.malloy#L13) to try Malloy in your browser!
 
 ### Install the Visual Studio Code Extension
 
