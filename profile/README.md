@@ -4,7 +4,7 @@ Malloy is an experimental language for describing data relationships and transfo
 
 ## Try Malloy
 
-### Click [here](https://github.dev/malloydata/try-malloy/blob/main/airports.malloy#L13) to try Malloy in your browser!
+### Click [here](https://github.dev/malloydata/try-malloy/airports.malloy) to try Malloy in your browser!
 
 ### Install the Visual Studio Code Extension
 
@@ -12,7 +12,7 @@ To write your own Malloy models, use the VS Code Extension, currently available 
 
 1. **Download Visual Studio Code**: Download [Visual Studio Code](https://code.visualstudio.com/)
 
-2. **Add the Malloy (pre-release) extension from the Visual Studio Code Marketplace**: Open VS Code and click the Extensions button on the far left (it looks like 4 blocks with one flying away). This will open the Extension Marketplace. Search for "Malloy" and, once found, click "Install"
+2. **Add the Malloy extension from the Visual Studio Code Marketplace**: Open VS Code and click the Extensions button on the far left (it looks like 4 blocks with one flying away). This will open the Extension Marketplace. Search for "Malloy" and, once found, click "Install"
 
 3. **Download and unzip the [Sample Models](https://malloydata.github.io/malloy/aux/generated/samples.zip)** (models + data).
 
