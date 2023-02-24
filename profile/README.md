@@ -3,7 +3,7 @@ Malloy is an experimental language for describing data relationships and transfo
 
 We've built a Visual Studio Code extension to facilitate building Malloy data models, querying and transforming data, and creating simple visualizations and dashboards.
 
-### Click [here](https://github.dev/malloydata/try-malloy/airports.malloy) to try Malloy in your browser!
+### [Click here](https://github.dev/malloydata/try-malloy/airports.malloy) to try Malloy in your browser!
 
 ---
 
