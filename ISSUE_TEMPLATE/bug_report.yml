@@ -5,12 +5,11 @@ body:
     attributes:
       value: >
         Malloy has several repositories, please make sure you're raising your issue in the correct one:
+         * [Primary language repo](https://github.com/malloydata/malloy/issues/new)
          * [Our docs/website](https://github.com/malloydata/malloydata.github.io/issues/new)
          * [VSCode Extension](https://github.com/malloydata/malloy-vscode-extension/issues/new)
          * [CLI Tool](https://github.com/malloydata/malloy-cli/issues/new)
          * [Python Package](https://github.com/malloydata/malloy-py/issues/new)
-
-        If none of the above repositories are applicable, feel free to raise it in this one
 
   - type: textarea
     attributes:
